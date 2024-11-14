@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn-primary {
+    background-color: turquoise;
+    border-color: turquoise;
+    border-radius: 0;
+}
+
+a.active {
+    background-color: turquoise !important;
+}
